@@ -1,4 +1,4 @@
-# 🧠 ML Deep Learning Projects – 6th Semester
+# 🧠 ML Deep Learning Projects 
 
 This repository contains a collection of deep learning projects developed during my 6th semester coursework. These projects explore a range of advanced topics in computer vision and generative modeling using popular architectures like **CNNs**, **GANs**, **WGAN-GP**, and **GoogLeNet**.
 
